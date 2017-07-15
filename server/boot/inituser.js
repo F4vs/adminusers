@@ -33,7 +33,7 @@ module.exports = (app, next) => {
     telefono: 6677777777,
     foto: 'imagen.png',
     username: 'admin',
-    email: 'user_dummy2@gmail.com',
+    email: 'user_dummy@correo.com',
     password: 'admin',
   };
 
